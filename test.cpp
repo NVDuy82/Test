@@ -1,11 +1,10 @@
-#include <iostream>
-#include<stdlib.h>
 #include <stdio.h>
-using namespace std;
+#include <conio.h>
 
 int main() {
-	cout << "Hello world !";
-	system("pause");
+	printf("123");
+	getch();
+	
 	return 0;
 }
 
