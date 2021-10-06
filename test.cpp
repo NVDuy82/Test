@@ -1,10 +1,8 @@
-#include <stdio.h>
-#include <conio.h>
+#include <cstdio>
 
 int main() {
 	printf("123");
-	getch();
-	
+
 	return 0;
 }
 
