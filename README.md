@@ -28,6 +28,10 @@ git clone <đường_dẫn_repo>
 ```
 git checkout -b <tên_nhánh_mới> <tên_nhánh_cũ>
 ```
+### Chuyển đổi nhánh
+```
+git checkout <tên_nhánh>
+```
 ### Hợp nhất (merge) hai nhánh (branches)
 ```
 git checkout <nhánh_nhận_thay_đổi>
