@@ -15,8 +15,8 @@ git add .
 git commit -m "update"
 ```
 ### Đẩy (push) các commit từ máy local lên remote repository
-#### <remote_name>: Tên của remote repository mà bạn muốn đẩy các commit lên. Thông thường, remote repository mặc định sẽ có tên là "origin".
-#### <branch_name>: Tên của nhánh (branch) mà bạn muốn đẩy lên remote repository.
+- <remote_name>: Tên của remote repository mà bạn muốn đẩy các commit lên. Thông thường, remote repository mặc định sẽ có tên là "origin".
+- <branch_name>: Tên của nhánh (branch) mà bạn muốn đẩy lên remote repository.
 ```
 git push <remote_name> <branch_name>
 ```
