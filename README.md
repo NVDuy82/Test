@@ -32,6 +32,10 @@ git checkout -b <tên_nhánh_mới> <tên_nhánh_cũ>
 ```
 git checkout <tên_nhánh>
 ```
+### Cập nhật các nhánh mới từ remote về local
+```
+git pull
+```
 ### Hợp nhất (merge) hai nhánh (branches)
 ```
 git checkout <nhánh_nhận_thay_đổi>
