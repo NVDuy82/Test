@@ -32,14 +32,6 @@ git checkout -b <tên_nhánh_mới> <tên_nhánh_cũ>
 ```
 git checkout <tên_nhánh>
 ```
-### Cập nhật các nhánh mới từ remote về local
-```
-git pull
-```
-### Cập nhật các nhánh mới mà không thay đổi nhánh hiện tại
-```
-git fetch
-```
 ### Hợp nhất (merge) hai nhánh (branches)
 ```
 git checkout <nhánh_nhận_thay_đổi>
@@ -56,4 +48,8 @@ git pull
 ```
 ```
 git pull <remote_name> <branch_name>
+```
+### Cập nhật các nhánh mới mà không thay đổi nhánh hiện tại
+```
+git fetch
 ```
