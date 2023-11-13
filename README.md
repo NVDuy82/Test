@@ -36,6 +36,10 @@ git checkout <tên_nhánh>
 ```
 git pull
 ```
+### Cập nhật các nhánh mới mà không thay đổi nhánh hiện tại
+```
+git fetch
+```
 ### Hợp nhất (merge) hai nhánh (branches)
 ```
 git checkout <nhánh_nhận_thay_đổi>
